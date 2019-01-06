@@ -1,5 +1,6 @@
 # Colorize
-Colorize is a Investment tracker tool.  We ami to help you manage your investment and calculate profit and loss and study the market with a live data feed. 
+Colorize is a Investment tracker tool.  We aim to help you manage your investment, calculate profit and loss 
+and study the market with a live data feed. 
 
 - Custom Date Range analysis more than the last month
 - Support of all available Exchange
