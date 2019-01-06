@@ -1,5 +1,7 @@
-# Colorize
-Colorize is a Investment tracker tool.  We aim to help you manage your investment, calculate profit and loss 
+##Get your version (here)[https://github.com/AndreaDev3D/Colorize/releases]
+![logo](https://colorize.club/wp-content/uploads/2018/09/cropped-Logo_Telegram-1.png)
+# Colorize Desktop
+Colorize is a Investment tracking tool.  We aim to help you manage your investment, calculate profit and loss 
 and study the market with a live data feed. 
 
 - Custom Date Range analysis .
