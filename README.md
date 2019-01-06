@@ -1,7 +1,5 @@
-
-
 # Colorize Desktop
-## Get your version (here)[https://github.com/AndreaDev3D/Colorize/releases]
+#### Get latest version [here](https://github.com/AndreaDev3D/Colorize/releases).
 
 Colorize is a Investment tracking tool.  We aim to help you manage your investment, calculate profit and loss 
 and study the market with a live data feed. 
@@ -20,9 +18,10 @@ and study the market with a live data feed.
 - Referral program benefit.
 - And more to come…
 
-Supported Exchange |
------------- |
-Binance |
-Bitmex |
+Supported Exchange | status
+------------ | -------------
+Binance | ✅
+Bitmex | ✅
+Poloniex | ❌
 
 more info on [Colorize Website](https://colorize.club/).
