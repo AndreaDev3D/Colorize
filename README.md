@@ -1,6 +1,8 @@
-##Get your version (here)[https://github.com/AndreaDev3D/Colorize/releases]
-![logo](https://colorize.club/wp-content/uploads/2018/09/cropped-Logo_Telegram-1.png)
+
+
 # Colorize Desktop
+## Get your version (here)[https://github.com/AndreaDev3D/Colorize/releases]
+
 Colorize is a Investment tracking tool.  We aim to help you manage your investment, calculate profit and loss 
 and study the market with a live data feed. 
 
