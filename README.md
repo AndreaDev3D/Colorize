@@ -5,7 +5,7 @@ Colorize is a Investment tracking tool.  We aim to help you manage your investme
 and study the market with a live data feed. 
 
 - Custom Date Range analysis .
-- Support of all available Exchange.(Binance,Bitmex)
+- Support of all available Exchange.
 - **Gunbot** module.
 - TelegramBot with notification.
 - TelegramBot scripting buy and sell.
@@ -18,5 +18,9 @@ and study the market with a live data feed.
 - Referral program benefit.
 - And more to come…
 
+Supported Exchange |
+------------ |
+Binance |
+Bitmex |
 
 more info on [Colorize Website](https://colorize.club/).
