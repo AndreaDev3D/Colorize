@@ -18,10 +18,16 @@ and study the market with a live data feed.
 - Referral program benefit.
 - And more to come…
 
-Supported Exchange | status
+API Supported Exchange | status
 ------------ | -------------
+Gunbot | ✅
 Binance | ✅
 Bitmex | ✅
 Poloniex | ❌
+Bittrex | ❌
+Gdax | ❌
+Kraken | ❌
+Cryptopia | ❌
+Bitfinex | ❌
 
 more info on [Colorize Website](https://colorize.club/).
